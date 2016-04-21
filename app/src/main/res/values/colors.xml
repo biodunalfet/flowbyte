@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FECE00</color>
+    <color name="colorPrimaryDark">#E3B800</color>
+    <color name="colorAccent">#6BC86A</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textColorSecondary">#D7D7D7</color>
+    <color name="home_btn_pressed">#514200</color>
+    <color name="home_btn_normal">#30362A</color>
+    <color name="home_btn_focused">#483B00</color>
+    <color name="black">#000000</color>
+</resources>
